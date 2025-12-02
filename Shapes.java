@@ -33,13 +33,13 @@ public class Shapes {
             t.right(36);
          }
          t.up();
-         System.out.println(numTurns);
+         System.out.println("T turtle has turned " + numTurns + " times!");
 
 
         // Extension 1:
 
 
         // Extension 2:
-
+      t.exit();
     }
 }
